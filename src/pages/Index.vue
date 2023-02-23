@@ -9,8 +9,8 @@
     </section>
   </Layout>
 </template>
-
 <script>
+
 import PostList from '../components/PostList.vue';
 export default {
   metaInfo: {
